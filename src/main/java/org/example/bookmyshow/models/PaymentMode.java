@@ -1,4 +1,4 @@
-package models;
+package org.example.bookmyshow.models;
 
 public enum PaymentMode {
     UPI,
